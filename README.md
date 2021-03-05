@@ -1,14 +1,22 @@
 
 <p align="center">
-<img height="50"src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif"/> <samp><h1>Hey!</h1></samp>
+<img height="50"src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif"/> # Hey!
 </p>
-
  </br>
 <p align="center">
+ 
+<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" alt="Resume application project app icon">
+
+# Heeey!
+ 
+</br>
+ 
 <samp>
 I'm Isaac. A passionate software programmer, eager to learn something new each day :D
 </samp>
 </br></br>
+
+
 
 ```js
 import SoftwareDeveloper from 'myData';
