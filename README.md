@@ -37,6 +37,79 @@ class Skills extends SoftwareDeveloper {
 <h2 align="center"><samp>Github Stats</samp></h2>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 29 Contributions in the Year 2021
+ > 
+> 📦 52.2 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+🌆 Daytime    68 commits     ████████████░░░░░░░░░░░░░   50.0% 
+🌃 Evening    51 commits     █████████░░░░░░░░░░░░░░░░   37.5% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
+Tuesday      25 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.38% 
+Wednesday    9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
+Thursday     16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Friday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21% 
+Saturday     63 commits     ███████████░░░░░░░░░░░░░░   46.32% 
+Sunday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.68%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Guatemala
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.0% 
+TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+C++                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.0% 
+Assembly                 3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/einjunge99/einjunge99/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ------
