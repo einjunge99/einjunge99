@@ -1,6 +1,6 @@
 
 <p align="center">
-<img height="50"src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif"/> <samp style="font-size:40px;">Hey!</samp>
+<img height="50"src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif"/> <samp><h1>Hey!</h1></samp>
 </p>
 
  </br>
