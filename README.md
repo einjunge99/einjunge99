@@ -1,10 +1,3 @@
-
-<p align="center">
-<img height="50"src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif"/> # Hey!
-</p>
- </br>
-<p align="center">
- 
 <img align="left" width="80" height="80" src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" alt="Resume application project app icon">
 
 # Heeey!
