@@ -105,10 +105,6 @@ Java                     2 repos             ██░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/einjunge99/einjunge99/main/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
