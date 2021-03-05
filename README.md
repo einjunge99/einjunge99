@@ -1,16 +1,52 @@
-### Hi there 👋
 
-<!--
-**einjunge99/einjunge99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img height="50"src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif"/> <samp style="font-size:40px;">Hey!</samp>
+</p>
 
-Here are some ideas to get you started:
+ </br>
+<p align="center">
+<samp>
+I'm Isaac. A passionate software programmer, eager to learn something new each day :D
+</samp>
+</br></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+import SoftwareDeveloper from 'myData';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Isaac Maldonado';
+  title    = 'In progress...';
+  location = 'Guatemala, Guatemala';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript','Java','Typescript', 'C','C++','C#','Python','Assembly','Dart','Go'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL','Oracle'];
+  frameworks = ['Angular','Flutter','Bootstrap'];
+  libraries  = ['React']
+}
+```
+
+</p>
+<samp>
+<p align="center">
+<a href="www.linkedin.com/in/isaac-maldonado-4745b2194">Linkedin</a> | <a href="https://twitter.com/Anaklusmos99">Twitter</a>
+</p>
+
+<h2 align="center"><samp>Github Stats</samp></h2>
+
+<a href="https://github.com/paulj1989/github-readme-stats">
+  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=einjunge99&&how_icons=false&count_private=true" />
+</a>
+<a href="https://github.com/github-readme-stats">
+  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api/top-langs/?username=einjunge99&&layout=compact" />
+</a>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+------
+
+Last Edited on: 05/03/2021
+
