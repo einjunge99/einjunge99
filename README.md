@@ -36,14 +36,6 @@ class Skills extends SoftwareDeveloper {
 
 <h2 align="center"><samp>Github Stats</samp></h2>
 
-<a href="https://github.com/paulj1989/github-readme-stats">
-  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api?username=einjunge99&&how_icons=false&count_private=true" />
-</a>
-<a href="https://github.com/github-readme-stats">
-  <img align="center" src="https://github-stats-51zyiojh0.vercel.app/api/top-langs/?username=einjunge99&&layout=compact" />
-</a>
-
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
