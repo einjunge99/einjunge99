@@ -37,11 +37,11 @@ class Skills extends SoftwareDeveloper {
 <h2 align="center"><samp>Github Stats</samp></h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 29 Contributions in the Year 2021
+> 🏆 30 Contributions in the Year 2021
  > 
 > 📦 52.2 kB Used in Github's Storage 
  > 
