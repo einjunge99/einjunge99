@@ -49,7 +49,7 @@ class Skills extends SoftwareDeveloper {
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 8 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
