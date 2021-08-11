@@ -43,7 +43,7 @@ class Skills extends SoftwareDeveloper {
 
 > 🏆 47 Contributions in the Year 2021
  > 
-> 📦 66.8 kB Used in Github's Storage 
+> 📦 67.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,7 +106,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2021
+ Last Updated on 11/08/2021
 <!--END_SECTION:waka-->
 
 ------
