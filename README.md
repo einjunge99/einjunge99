@@ -43,7 +43,7 @@ class Skills extends SoftwareDeveloper {
 
 > 🏆 47 Contributions in the Year 2021
  > 
-> 📦 67.0 kB Used in Github's Storage 
+> 📦 67.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -80,16 +80,20 @@ Sunday       58 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 57 mins       █████████████████████░░░░   86.62% 
+YAML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.81% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 24 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          3 hrs               ██████████████████████░░░   88.43% 
+sm2-yatrana-workspace    23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.57%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +110,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2021
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
 
 ------
