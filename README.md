@@ -37,13 +37,13 @@ class Skills extends SoftwareDeveloper {
 <h2 align="center"><samp>Github Stats</samp></h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 48 Contributions in the Year 2021
  > 
-> 📦 67.2 kB Used in Github's Storage 
+> 📦 67.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,7 +106,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 ------
