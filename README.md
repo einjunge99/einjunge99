@@ -37,11 +37,11 @@ class Skills extends SoftwareDeveloper {
 <h2 align="center"><samp>Github Stats</samp></h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 49 Contributions in the Year 2021
+> 🏆 50 Contributions in the Year 2021
  > 
 > 📦 67.2 kB Used in GitHub's Storage 
  > 
@@ -67,8 +67,8 @@ Monday       50 commits     ████░░░░░░░░░░░░░�
 Tuesday      43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
 Wednesday    37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.6% 
 Thursday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
-Friday       60 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
-Saturday     26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.15% 
+Friday       61 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.12% 
+Saturday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.84% 
 Sunday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.87%
 
 ```
@@ -106,7 +106,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2021
+ Last Updated on 25/09/2021
 <!--END_SECTION:waka-->
 
 ------
