@@ -37,7 +37,7 @@ class Skills extends SoftwareDeveloper {
 <h2 align="center"><samp>Github Stats</samp></h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -106,7 +106,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2022 18:38:52 UTC
+ Last Updated on 27/01/2022 18:40:27 UTC
 <!--END_SECTION:waka-->
 
 ------
