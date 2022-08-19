@@ -43,8 +43,6 @@ class Skills extends SoftwareDeveloper {
 
 **🐱 My GitHub Data** 
 
-> 🏆 5 Contributions in the Year 2022
- > 
 > 📦 80.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -108,7 +106,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2022 18:43:35 UTC
+ Last Updated on 19/08/2022 18:47:55 UTC
 <!--END_SECTION:waka-->
 
 ------
