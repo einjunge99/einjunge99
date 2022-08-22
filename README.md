@@ -39,7 +39,7 @@ class Skills extends SoftwareDeveloper {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -108,7 +108,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2022 18:42:35 UTC
+ Last Updated on 22/08/2022 18:44:26 UTC
 <!--END_SECTION:waka-->
 
 ------
