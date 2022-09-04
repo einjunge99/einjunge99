@@ -37,7 +37,7 @@ class Skills extends SoftwareDeveloper {
 <h2 align="center"><samp>Github Stats</samp></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,48 +53,6 @@ class Skills extends SoftwareDeveloper {
  > 
 > 🔑 16 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-🌆 Daytime    15 commits     ███████████░░░░░░░░░░░░░░   46.88% 
-🌃 Evening    12 commits     █████████░░░░░░░░░░░░░░░░   37.5% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       8 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Tuesday      3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-Wednesday    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-Thursday     4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Friday       4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Saturday     8 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Sunday       2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Guatemala
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -108,7 +66,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2022 18:44:01 UTC
+ Last Updated on 04/09/2022 18:43:55 UTC
 <!--END_SECTION:waka-->
 
 ------
