@@ -53,6 +53,48 @@ class Skills extends SoftwareDeveloper {
  > 
 > 🔑 16 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    4 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+🌆 Daytime    8 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+🌃 Evening    8 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       5 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+Wednesday    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+Thursday     2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Friday       3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+Saturday     8 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Guatemala
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -66,7 +108,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2023 18:35:15 UTC
+ Last Updated on 03/01/2023 18:34:57 UTC
 <!--END_SECTION:waka-->
 
 ------
