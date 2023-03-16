@@ -43,7 +43,7 @@ class Skills extends SoftwareDeveloper {
 
 **🐱 My GitHub Data** 
 
-> 📦 80.5 kB Used in GitHub's Storage 
+> 📦 80.4 kB Used in GitHub's Storage 
  > 
 > 🏆 2 Contributions in the Year 2023
  > 
@@ -105,7 +105,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2023 18:35:31 UTC
+ Last Updated on 16/03/2023 18:36:36 UTC
 <!--END_SECTION:waka-->
 
 ------
