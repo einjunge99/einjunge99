@@ -39,11 +39,11 @@ class Skills extends SoftwareDeveloper {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 80.8 kB Used in GitHub's Storage 
+> 📦 82.5 kB Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2023
  > 
@@ -51,7 +51,7 @@ class Skills extends SoftwareDeveloper {
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 16 Private Repositories 
+> 🔑 17 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -95,17 +95,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               20 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JavaScript               20 repos            ███████████░░░░░░░░░░░░░░   43.48 % 
+TypeScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+C++                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
 
 
- Last Updated on 15/08/2023 18:34:12 UTC
+ Last Updated on 16/08/2023 18:35:04 UTC
 <!--END_SECTION:waka-->
 
 ------
