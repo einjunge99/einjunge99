@@ -39,7 +39,7 @@ class Skills extends SoftwareDeveloper {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -105,7 +105,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2024 18:35:51 UTC
+ Last Updated on 03/01/2024 18:36:06 UTC
 <!--END_SECTION:waka-->
 
 ------
