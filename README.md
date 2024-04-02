@@ -47,9 +47,9 @@ class Skills extends SoftwareDeveloper {
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 34 Public Repositories 
  > 
-> 🔑 16 Private Repositories 
+> 🔑 17 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -103,7 +103,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/04/2024 18:34:29 UTC
+ Last Updated on 02/04/2024 18:34:27 UTC
 <!--END_SECTION:waka-->
 
 ------
