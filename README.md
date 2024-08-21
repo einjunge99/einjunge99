@@ -45,8 +45,6 @@ class Skills extends SoftwareDeveloper {
 
 > 📦 88.1 kB Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 37 Public Repositories 
@@ -105,7 +103,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2024 18:41:05 UTC
+ Last Updated on 21/08/2024 18:41:17 UTC
 <!--END_SECTION:waka-->
 
 ------
