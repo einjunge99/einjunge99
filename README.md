@@ -45,8 +45,6 @@ class Skills extends SoftwareDeveloper {
 
 > 📦 107.9 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 41 Public Repositories 
@@ -105,7 +103,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2025 18:48:37 UTC
+ Last Updated on 25/08/2025 18:52:34 UTC
 <!--END_SECTION:waka-->
 
 ------
