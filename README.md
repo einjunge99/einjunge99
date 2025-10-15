@@ -37,19 +37,17 @@ class Skills extends SoftwareDeveloper {
 <h2 align="center"><samp>Github Stats</samp></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2053%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 108.0 kB Used in GitHub's Storage 
+> 📦 108.3 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2025
+> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 42 Public Repositories 
  > 
 > 🔑 18 Private Repositories 
  > 
@@ -95,17 +93,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
 
 
- Last Updated on 14/10/2025 18:52:17 UTC
+ Last Updated on 15/10/2025 18:52:49 UTC
 <!--END_SECTION:waka-->
 
 ------
