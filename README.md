@@ -43,13 +43,13 @@ class Skills extends SoftwareDeveloper {
 
 **🐱 My GitHub Data** 
 
-> 📦 108.3 kB Used in GitHub's Storage 
+> 📦 108.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 43 Public Repositories 
  > 
 > 🔑 18 Private Repositories 
  > 
@@ -95,17 +95,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 
 
 
 
- Last Updated on 04/03/2026 19:12:51 UTC
+ Last Updated on 05/03/2026 19:42:59 UTC
 <!--END_SECTION:waka-->
 
 ------
