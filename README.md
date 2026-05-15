@@ -37,8 +37,6 @@ class Skills extends SoftwareDeveloper {
 <h2 align="center"><samp>Github Stats</samp></h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2053%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -53,45 +51,6 @@ class Skills extends SoftwareDeveloper {
  > 
 > 🔑 18 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                554 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-🌆 Daytime                1219 commits        ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-🌃 Evening                2158 commits        █████████████░░░░░░░░░░░░   51.60 % 
-🌙 Night                  251 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   852 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-Tuesday                  689 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Wednesday                738 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Thursday                 519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Friday                   723 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Saturday                 343 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Sunday                   318 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Guatemala
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -105,7 +64,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 20:14:19 UTC
+ Last Updated on 15/05/2026 20:00:40 UTC
 <!--END_SECTION:waka-->
 
 ------
