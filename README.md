@@ -37,7 +37,9 @@ class Skills extends SoftwareDeveloper {
 <h2 align="center"><samp>Github Stats</samp></h2>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-440%20hrs%2053%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -103,7 +105,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2026 20:11:26 UTC
+ Last Updated on 19/05/2026 20:14:12 UTC
 <!--END_SECTION:waka-->
 
 ------
